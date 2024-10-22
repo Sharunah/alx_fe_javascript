@@ -101,5 +101,3 @@ function addQuote() {
 // Attach event listeners
 document.getElementById('newQuote').addEventListener('click', displayRandomQuote);
 document.getElementById('addQuoteButton').addEventListener('click', addQuote);
-
- 
